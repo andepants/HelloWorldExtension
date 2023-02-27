@@ -1,1 +1,1 @@
-console.log("Popup console.log yewwww);
+console.log("Popup console.log yewwww");
